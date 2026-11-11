@@ -1,7 +1,88 @@
+---
+name: crt-architect
+description: 結合臺灣 108 課綱、Banks 多元文化理論、TSEL 與花蓮/台灣在地文化之高互動備課、健檢、實踐教練與教育心理學 Word (.docx) 匯出技能
+---
+
 # 文化回應課程協作 v2.4.22 (CRT-Architect) AI 備課與實踐教練技能
 
-## 一、 核心架構 (Core Architecture)
+## 一、核心架構 (Core Architecture)
 本技能整合臺灣 108 課綱核心素養與議題融入、James A. Banks 多元文化教育四階段理論（貢獻、添加、轉型、社會行動模式）、TSEL (Transformative Social-Emotional Learning, 變革型社會情緒學習) 以及教育心理學建構主義與認知負荷理論，提供教師從課程設計、在地文化連結到 Word (.docx) 規範化文檔輸出的全方位 AI 協作支援。
+
+## 二、7 階段工作流 (7-Stage Workflow)
+1. 階段 1：學情與文化背景分析 (Learner & Cultural Background Analysis)
+   - 診斷學生多元文化背景、先前知識與社會情緒需求。
+2. 階段 2：108 課綱素養與 Banks 理論對齊 (Curriculum & Banks Theory Alignment)
+   - 梳理總綱/領綱核心素養，定位 Banks 多元文化融入層級（從添加走向轉型與社會行動）。
+3. 階段 3：花蓮在地文化資源與主題議題融入 (Local Cultural Resource Integration - Hualien)
+   - 連結花蓮在地自然、歷史與原住民族（阿美族、撒奇萊雅族、太魯閣族、布農族、噶瑪蘭族、賽德克族）文化資產與地理特性。
+4. 階段 4：TSEL 社會情緒能力與學習活動設計 (TSEL & Active Learning Activity Design)
+   - 設計自我覺察、社會覺察、關係技能、負責任決策與批判性意識導向的體驗活動。
+5. 階段 5：評量機制與免代碼三步查表計分矩陣 (Assessment & 3-Step Scoring Matrix)
+   - 建立形成性與總結性評量規準，運用簡易查表進行多元文化與素養達成度評量。
+6. 階段 6：教育心理學認知負荷優化與鷹架建立 (Educational Psychology & Scaffolding)
+   - 降低外在認知負荷，提供概念鷹架（提示卡、思考架構、圖式整理）。
+7. 階段 7：Word (.docx) 排版與純正 Unicode/OMML 規範匯出 (Word/OMML Specification Export)
+   - 依據視覺層級與出版規範匯出具備純正 OMML 數學符號、標準標題與乾淨樣式的專業備課文件。
+
+## 三、免代碼三步查表計分矩陣 (Code-Free 3-Step Lookup Scoring Matrix)
+
+### 步驟 1：文化回應層級定位 (Banks Level Score, 1-4分)
+- 1分（貢獻模式）：僅於節慶或特定活動介紹文化符號、食物與英雄人物。
+- 2分（添加模式）：在原有課程結構下，增加文化主題或概念單元，未改變整體架構。
+- 3分（轉型模式）：改變課程結構，引導學生從不同文化觀點、概念與批判性視角思考問題。
+- 4分（社會行動模式）：學生針對文化/社會議題做出決策並採取真實行動解決真實情境問題。
+
+### 步驟 2：TSEL 與素養融入表現 (TSEL & Competency Score, 1-4分)
+- 1分（初階）：能覺察個人與文化差異，但在課堂活動中參與較被動。
+- 2分（進階）：能展現跨文化同理心，並完成小組指定的文化探索任務。
+- 3分（熟練）：能運用批判性思考分析在地文化議題，展現社會覺察與良好的小組合作技能。
+- 4分（卓越）：能自主提出具文化回應意義的解決方案，推動社會行動與反思。
+
+### 步驟 3：綜合評分與優化建議查表 (Combined Rating & Action Plan)
+- 總分 2-4 分（基礎級）：建議增加在地文化與學生生活經驗之實質連結，提升至 Banks 添加/轉型層級。
+- 總分 5-6 分（成長級）：引導學生進行跨文化對話與思考，並深化 108 課綱議題融入（如原住民族教育、多元文化教育）。
+- 總分 7-8 分（優良級）：課程具備高度文化回應力與行動力，可作為花蓮在地化校本課程之示範教案。
+
+詳情請參閱 [references/lookup_scoring_matrices.md](references/lookup_scoring_matrices.md)。
+
+## 四、臺灣 108 課綱與花蓮在地文化資源連結 (108 Curriculum & Hualien Cultural Integration)
+
+1. 108 課綱核心素養對齊：
+   - A2 系統思考與解決問題：連結花蓮自然環境（如太魯閣國家公園地質、太平洋海岸生態）之永續發展議題。
+   - B3 藝術涵養與美感素養：結合花蓮原住民族織布、傳統歌謠與雕刻藝術之文化美學。
+   - C2 多元文化與國際理解：深入理解花蓮多元族群（阿美族、撒奇萊雅族、太魯閣族、布農族、噶瑪蘭族、賽德克族及新住民）之文化主體性與歷史脈絡。
+
+2. 花蓮在地文化與生態資源庫：
+   - 文化場域與歷史：奇萊平原歷史脈絡、撒奇萊雅族火神祭 (Palamal)、阿美族豐年祭 (Ilisin)、花蓮鐵道文化園區。
+   - 地理生態資源：花東縱谷農業生態、秀姑巒溪水文與泛舟、花蓮溪口濕地保護區、黑潮海洋文化。
+   - 校本課程設計範例：「從花蓮溪到太平洋：阿美族海洋知識系統與環境永續」、「太魯閣族傳統織布工藝中的幾何與數學邏輯」。
+
+詳情請參閱 [references/taiwan_curriculum_and_urls.md](references/taiwan_curriculum_and_urls.md) 與 [references/hualien_crt_and_strategies.md](references/hualien_crt_and_strategies.md)。
+
+## 五、教育心理學與純正 Unicode/OMML 數學符號 Word 匯出規範 (Word Export & OMML Formatting Standards)
+
+1. 教育心理學視覺設計原則：
+   - 降低外在認知負荷 (Extraneous Cognitive Load)：採用一致的標題層級 (H1-H3)、適當留白與清楚的表格邊框。
+   - 多模態編碼 (Dual Coding Theory)：文字搭配結構化圖表、顏色標示關鍵字，促進資訊吸收與記憶提取。
+
+2. 純正 Unicode/OMML 數學符號排版規範 (Native Word OMML Formula)：
+   - 禁止事項：嚴禁使用圖片檔 (PNG/JPG) 呈現數學公式，嚴禁使用無語意之純文字拼湊公式。
+   - Unicode/OMML 規範：所有數學公式必須採用標準 Office Math Markup Language (OMML) 或 UnicodeMath 格式匯出，確保在 Microsoft Word (.docx) 中可進行原生編輯與螢幕閱讀器朗讀。
+   - 公式樣式：
+     - 行內公式 (Inline Math)：使用斜體變數（如 x, y, z），運算子（如 +, -, =, ×, ÷）保持正體。
+     - 獨立公式區塊 (Display Math)：置中對齊，例如 E = m * c^2 與 S_Banks = sum(w_i * C_i)。
+
+3. 自動化 Python 匯出工具：
+   - 可直接使用 [scripts/export_crt_docx.py](scripts/export_crt_docx.py) 腳本將 JSON 格式教案轉為 Word (.docx) 7合1教學包。
+
+詳情請參閱 [references/word_export_edpsych_guide.md](references/word_export_edpsych_guide.md) 與 [scripts/export_crt_docx.py](scripts/export_crt_docx.py)。
+
+## 六、參考文件與工具腳本 (References & Script Resources)
+- 查表評分矩陣：[references/lookup_scoring_matrices.md](references/lookup_scoring_matrices.md)
+- 臺灣 108 課綱與相關連結：[references/taiwan_curriculum_and_urls.md](references/taiwan_curriculum_and_urls.md)
+- 花蓮 CRT 文化資源與策略：[references/hualien_crt_and_strategies.md](references/hualien_crt_and_strategies.md)
+- Word 匯出與教育心理學指南：[references/word_export_edpsych_guide.md](references/word_export_edpsych_guide.md)
+- 7合1 Word 匯出腳本：[scripts/export_crt_docx.py](scripts/export_crt_docx.py) A. Banks 多元文化教育四階段理論（貢獻、添加、轉型、社會行動模式）、TSEL (Transformative Social-Emotional Learning, 變革型社會情緒學習) 以及教育心理學建構主義與認知負荷理論，提供教師從課程設計、在地文化連結到 Word (.docx) 規範化文檔輸出的全方位 AI 協作支援。
 
 ## 二、 7 階段工作流 (7-Stage Workflow)
 1. 階段 1：學情與文化背景分析 (Learner & Cultural Background Analysis)

@@ -1,0 +1,6 @@
+interface:
+  display_name: "🧰 文化回應課程協作 v2.4.22 (CRT-Architect)"
+  short_description: "結合臺灣 108 課綱、Banks 多元文化理論、TSEL 與花蓮/台灣在地文化之高互動備課、健檢、實踐教練與教育心理學 Word (.docx) 匯出技能"
+  default_prompt: "呼叫文化回應課程協作，請協助我設計結合臺灣 108 課綱與花蓮在地文化的互動教案與學習單，並於確認後匯出為符合教育心理學與純正數學排版的 Word (.docx) 文件。"
+policy:
+  allow_implicit_invocation: true
